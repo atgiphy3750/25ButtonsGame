@@ -1,0 +1,30 @@
+body {
+  background-color: plum;
+  font-family: "Fredoka One";
+}
+
+.App {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.Box {
+  display: flex;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  margin: 4px;
+}
+
+.OuterContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.InnerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 290px;
+}
