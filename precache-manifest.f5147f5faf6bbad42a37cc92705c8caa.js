@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a73ac558e9b70eda302c88dcc4a46abf",
+    "revision": "edd5bdbb36ed32cb78df9719e53c68a4",
     "url": "/25buttonsgame/index.html"
   },
   {
-    "revision": "9a6151a59ff00bbcbe8e",
+    "revision": "fbe1a72ecd497d87093a",
     "url": "/25buttonsgame/static/css/main.4552d531.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/25buttonsgame/static/js/2.5431957a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a6151a59ff00bbcbe8e",
-    "url": "/25buttonsgame/static/js/main.ead22467.chunk.js"
+    "revision": "fbe1a72ecd497d87093a",
+    "url": "/25buttonsgame/static/js/main.9ba6d483.chunk.js"
   },
   {
     "revision": "8f2d9f0ea29334e50766",

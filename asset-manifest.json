@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/25buttonsgame/static/css/main.4552d531.chunk.css",
-    "main.js": "/25buttonsgame/static/js/main.ead22467.chunk.js",
-    "main.js.map": "/25buttonsgame/static/js/main.ead22467.chunk.js.map",
+    "main.js": "/25buttonsgame/static/js/main.9ba6d483.chunk.js",
+    "main.js.map": "/25buttonsgame/static/js/main.9ba6d483.chunk.js.map",
     "runtime-main.js": "/25buttonsgame/static/js/runtime-main.3150994b.js",
     "runtime-main.js.map": "/25buttonsgame/static/js/runtime-main.3150994b.js.map",
     "static/js/2.5431957a.chunk.js": "/25buttonsgame/static/js/2.5431957a.chunk.js",
     "static/js/2.5431957a.chunk.js.map": "/25buttonsgame/static/js/2.5431957a.chunk.js.map",
     "index.html": "/25buttonsgame/index.html",
-    "precache-manifest.f587fb21585fbb636194c678ca2cc3f7.js": "/25buttonsgame/precache-manifest.f587fb21585fbb636194c678ca2cc3f7.js",
+    "precache-manifest.f5147f5faf6bbad42a37cc92705c8caa.js": "/25buttonsgame/precache-manifest.f5147f5faf6bbad42a37cc92705c8caa.js",
     "service-worker.js": "/25buttonsgame/service-worker.js",
     "static/css/main.4552d531.chunk.css.map": "/25buttonsgame/static/css/main.4552d531.chunk.css.map",
     "static/js/2.5431957a.chunk.js.LICENSE.txt": "/25buttonsgame/static/js/2.5431957a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3150994b.js",
     "static/js/2.5431957a.chunk.js",
     "static/css/main.4552d531.chunk.css",
-    "static/js/main.ead22467.chunk.js"
+    "static/js/main.9ba6d483.chunk.js"
   ]
 }
