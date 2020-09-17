@@ -18,11 +18,6 @@ const colorOff = {
   fontSize: "1.2rem",
 };
 
-const size = {
-  width: "3.5rem",
-  height: "3.5rem",
-};
-
 const variants = {
   on: {
     backgroundColor: [

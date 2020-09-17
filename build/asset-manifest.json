@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/25buttonsgame/static/css/main.98fd8f64.chunk.css",
-    "main.js": "/25buttonsgame/static/js/main.0dd9c2cc.chunk.js",
-    "main.js.map": "/25buttonsgame/static/js/main.0dd9c2cc.chunk.js.map",
-    "runtime-main.js": "/25buttonsgame/static/js/runtime-main.3150994b.js",
-    "runtime-main.js.map": "/25buttonsgame/static/js/runtime-main.3150994b.js.map",
-    "static/js/2.5431957a.chunk.js": "/25buttonsgame/static/js/2.5431957a.chunk.js",
-    "static/js/2.5431957a.chunk.js.map": "/25buttonsgame/static/js/2.5431957a.chunk.js.map",
-    "index.html": "/25buttonsgame/index.html",
-    "precache-manifest.082cf831840f831a0c4a5c5a785cdbd2.js": "/25buttonsgame/precache-manifest.082cf831840f831a0c4a5c5a785cdbd2.js",
-    "service-worker.js": "/25buttonsgame/service-worker.js",
-    "static/css/main.98fd8f64.chunk.css.map": "/25buttonsgame/static/css/main.98fd8f64.chunk.css.map",
-    "static/js/2.5431957a.chunk.js.LICENSE.txt": "/25buttonsgame/static/js/2.5431957a.chunk.js.LICENSE.txt"
+    "main.css": "/25ButtonsGame/static/css/main.4552d531.chunk.css",
+    "main.js": "/25ButtonsGame/static/js/main.ead22467.chunk.js",
+    "main.js.map": "/25ButtonsGame/static/js/main.ead22467.chunk.js.map",
+    "runtime-main.js": "/25ButtonsGame/static/js/runtime-main.e485f8c9.js",
+    "runtime-main.js.map": "/25ButtonsGame/static/js/runtime-main.e485f8c9.js.map",
+    "static/js/2.5431957a.chunk.js": "/25ButtonsGame/static/js/2.5431957a.chunk.js",
+    "static/js/2.5431957a.chunk.js.map": "/25ButtonsGame/static/js/2.5431957a.chunk.js.map",
+    "index.html": "/25ButtonsGame/index.html",
+    "precache-manifest.35982a39728e5aa7876d3f67452606d3.js": "/25ButtonsGame/precache-manifest.35982a39728e5aa7876d3f67452606d3.js",
+    "service-worker.js": "/25ButtonsGame/service-worker.js",
+    "static/css/main.4552d531.chunk.css.map": "/25ButtonsGame/static/css/main.4552d531.chunk.css.map",
+    "static/js/2.5431957a.chunk.js.LICENSE.txt": "/25ButtonsGame/static/js/2.5431957a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3150994b.js",
+    "static/js/runtime-main.e485f8c9.js",
     "static/js/2.5431957a.chunk.js",
-    "static/css/main.98fd8f64.chunk.css",
-    "static/js/main.0dd9c2cc.chunk.js"
+    "static/css/main.4552d531.chunk.css",
+    "static/js/main.ead22467.chunk.js"
   ]
 }

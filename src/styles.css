@@ -21,15 +21,15 @@ body {
 }
 
 .OuterContainer {
-  border-radius: 10%;
-  border-style: double;
   display: flex;
   justify-content: center;
 }
 
 .InnerContainer {
-  border-color: black;
-  border: 1rem;
+  border-width: 1rem;
+  border-style: double;
+  border-radius: 5%;
+  border-color: indigo;
   display: flex;
   flex-wrap: wrap;
   width: 20rem;
