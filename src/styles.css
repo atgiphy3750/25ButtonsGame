@@ -10,21 +10,27 @@ body {
 }
 
 .Box {
+  width: 3.5rem;
+  height: 3.5rem;
   display: flex;
   border-radius: 15px;
   justify-content: center;
   align-items: center;
   user-select: none;
-  margin: 4px;
+  margin: 0.25rem;
 }
 
 .OuterContainer {
+  border-radius: 10%;
+  border-style: double;
   display: flex;
   justify-content: center;
 }
 
 .InnerContainer {
+  border-color: black;
+  border: 1rem;
   display: flex;
   flex-wrap: wrap;
-  width: 290px;
+  width: 20rem;
 }

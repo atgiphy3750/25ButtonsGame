@@ -3,19 +3,24 @@ import { motion } from "framer-motion";
 
 const ACTIONS = {
   TOGGLE_ON: "toggleOn",
-  TOGGLE_BG: "toggleBg"
+  TOGGLE_BG: "toggleBg",
 };
 
 const colorOn = {
   background: "#6200EE",
   font: "#FFFFFF",
-  fontSize: "1.8rem"
+  fontSize: "1.8rem",
 };
 
 const colorOff = {
   background: "#FFFFFF",
   font: "#aaa",
-  fontSize: "1.2rem"
+  fontSize: "1.2rem",
+};
+
+const size = {
+  width: "3.5rem",
+  height: "3.5rem",
 };
 
 const variants = {
@@ -23,22 +28,22 @@ const variants = {
     backgroundColor: [
       colorOn.background,
       colorOn.background,
-      colorOn.background
+      colorOn.background,
     ],
     color: [colorOn.font, colorOn.font, colorOn.font],
     scale: [1, 1.15, 1.1],
-    fontSize: [colorOn.fontSize, colorOn.fontSize, colorOn.fontSize]
+    fontSize: [colorOn.fontSize, colorOn.fontSize, colorOn.fontSize],
   },
   off: {
     backgroundColor: [
       colorOff.background,
       colorOff.background,
-      colorOff.background
+      colorOff.background,
     ],
     color: [colorOff.font, colorOff.font, colorOff.font],
     scale: [1.1, 0.95, 1],
-    fontSize: [colorOff.fontSize, colorOff.fontSize, colorOff.fontSize]
-  }
+    fontSize: [colorOff.fontSize, colorOff.fontSize, colorOff.fontSize],
+  },
 };
 
 const reducer = (state, action) => {
@@ -53,7 +58,7 @@ const reducer = (state, action) => {
 const Box = (props) => {
   const [state, dispatch] = useReducer(reducer, {
     isOn: false,
-    bg: colorOff.background
+    bg: colorOff.background,
   });
 
   const toggleOn = () => {
@@ -64,9 +69,7 @@ const Box = (props) => {
     <motion.div
       className="Box"
       style={{
-        width: "50px",
-        height: "50px",
-        backgroundColor: state.bg
+        backgroundColor: state.bg,
       }}
       initial="off"
       animate={state.isOn ? "on" : "off"}
