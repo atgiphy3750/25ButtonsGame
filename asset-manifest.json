@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//atgiphy3750.github.io/25buttonsgame/static/css/main.98fd8f64.chunk.css",
-    "main.js": "//atgiphy3750.github.io/25buttonsgame/static/js/main.0dd9c2cc.chunk.js",
-    "main.js.map": "//atgiphy3750.github.io/25buttonsgame/static/js/main.0dd9c2cc.chunk.js.map",
-    "runtime-main.js": "//atgiphy3750.github.io/25buttonsgame/static/js/runtime-main.9e1e9902.js",
-    "runtime-main.js.map": "//atgiphy3750.github.io/25buttonsgame/static/js/runtime-main.9e1e9902.js.map",
-    "static/js/2.5431957a.chunk.js": "//atgiphy3750.github.io/25buttonsgame/static/js/2.5431957a.chunk.js",
-    "static/js/2.5431957a.chunk.js.map": "//atgiphy3750.github.io/25buttonsgame/static/js/2.5431957a.chunk.js.map",
-    "index.html": "//atgiphy3750.github.io/25buttonsgame/index.html",
-    "precache-manifest.906346c8a07416a84908ef9bc8af21b5.js": "//atgiphy3750.github.io/25buttonsgame/precache-manifest.906346c8a07416a84908ef9bc8af21b5.js",
-    "service-worker.js": "//atgiphy3750.github.io/25buttonsgame/service-worker.js",
-    "static/css/main.98fd8f64.chunk.css.map": "//atgiphy3750.github.io/25buttonsgame/static/css/main.98fd8f64.chunk.css.map",
-    "static/js/2.5431957a.chunk.js.LICENSE.txt": "//atgiphy3750.github.io/25buttonsgame/static/js/2.5431957a.chunk.js.LICENSE.txt"
+    "main.css": "/25buttonsgame/static/css/main.98fd8f64.chunk.css",
+    "main.js": "/25buttonsgame/static/js/main.0dd9c2cc.chunk.js",
+    "main.js.map": "/25buttonsgame/static/js/main.0dd9c2cc.chunk.js.map",
+    "runtime-main.js": "/25buttonsgame/static/js/runtime-main.3150994b.js",
+    "runtime-main.js.map": "/25buttonsgame/static/js/runtime-main.3150994b.js.map",
+    "static/js/2.5431957a.chunk.js": "/25buttonsgame/static/js/2.5431957a.chunk.js",
+    "static/js/2.5431957a.chunk.js.map": "/25buttonsgame/static/js/2.5431957a.chunk.js.map",
+    "index.html": "/25buttonsgame/index.html",
+    "precache-manifest.082cf831840f831a0c4a5c5a785cdbd2.js": "/25buttonsgame/precache-manifest.082cf831840f831a0c4a5c5a785cdbd2.js",
+    "service-worker.js": "/25buttonsgame/service-worker.js",
+    "static/css/main.98fd8f64.chunk.css.map": "/25buttonsgame/static/css/main.98fd8f64.chunk.css.map",
+    "static/js/2.5431957a.chunk.js.LICENSE.txt": "/25buttonsgame/static/js/2.5431957a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e1e9902.js",
+    "static/js/runtime-main.3150994b.js",
     "static/js/2.5431957a.chunk.js",
     "static/css/main.98fd8f64.chunk.css",
     "static/js/main.0dd9c2cc.chunk.js"
